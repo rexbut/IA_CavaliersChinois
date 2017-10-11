@@ -6,4 +6,4 @@ Chaque joueur est identifié par une couleur et possède au départ 6 cavaliers.
 
 La représentation du jeu et ces règles sont simples mais intelligence artificielle cela peut rapidement devenir compliqué. Sachant qu’il y au maximum 24 coups possibles par tour et qu’il peut y avoir 96 tours, cela signifie qu’il y a un trop grand nombre de possibilité pour réussir à jouer parfaitement bien.
 
-([Plus d'informations](RAPPORT.pdf)
+([Plus d'informations](RAPPORT.pdf))
